@@ -4,6 +4,9 @@
 
 Built by **Sumit Das** for **Summer of Bitcoin 2025**.
 
+## 🔴 Live Demo
+[Run on Replit](https://replit.com/@sumitds2005/cpp-block-parser-1)
+
 ## 🚀 Features
 *   **Raw Parsing:** Manually parses 80-byte Bitcoin block headers.
 *   **Zero Dependencies:** Uses only C++ Standard Library (STL).
